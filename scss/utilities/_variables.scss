@@ -18,5 +18,5 @@ $font-stack: "Neue Helvetica", Helvetica, sans-serif;
 $heading-stack: "Neue Helvetica Thin", Helvetica, sans-serif;
 
 // Breakpoints
-$mw: 'min-width:';
-$lg: 1400px;
+$brk-narrow : '(max-width: 768px)';
+$brk-wide : '(max-width: 1024px)';
