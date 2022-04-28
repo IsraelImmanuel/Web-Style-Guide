@@ -1,0 +1,22 @@
+// All Colors
+
+$white          : #fff;
+$black          : #000;
+$grey           : #878787;
+$regent-st-blue : #add8e6;
+$river-bed      : #48525c;
+$yellow-orange  : #ffa949;
+$red: #fd7856;
+$red-light: lighten($red, 10%);
+$purple: #927bc1;
+$purple-light: lighten($purple, 20%);
+$green: #63cc82;
+$green-light: lighten($green, 10%);
+
+// Fonts
+$font-stack: "Neue Helvetica", Helvetica, sans-serif;
+$heading-stack: "Neue Helvetica Thin", Helvetica, sans-serif;
+
+// Breakpoints
+$brk-narrow : '(max-width: 768px)';
+$brk-wide : '(max-width: 1024px)';
