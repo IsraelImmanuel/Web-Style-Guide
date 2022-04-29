@@ -5,7 +5,7 @@
 .btn {
   margin-top: 15px;
   width: 100%;
-  color: #fff;
+  color: $white;
   border: none;
   padding: 10px 0;
   text-transform: uppercase;
@@ -17,17 +17,17 @@
 }
 
 .error {
-  background-color: $regent-st-blue;
+  background-color: #e4757a;
 }
 
 .info {
-  background-color: $regent-st-blue;
+  background-color: #927bc1;
 }
 
 .success {
-  background-color: $regent-st-blue;
+  background-color: #63cc82;
 }
 
 .warning {
-  background-color: $yellow-orange;
+  background-color: #fd7856;
 }
