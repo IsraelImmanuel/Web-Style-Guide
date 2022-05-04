@@ -12,12 +12,12 @@ $purple: #927bc1;
 $purple-light: lighten($purple, 20%);
 $green: #63cc82;
 $green-light: lighten($green, 10%);
-$teal : teal; 
+$teal : teal;
 
 // Fonts
 $font-stack: "Neue Helvetica", Helvetica, sans-serif;
 $heading-stack: "Neue Helvetica Thin", Helvetica, sans-serif;
 
 // Breakpoints
-$brk-narrow : '(max-width: 768px)';
-$brk-wide : '(max-width: 1024px)';
+$brk-narrow : 768px;
+$brk-wide : 1024px;
